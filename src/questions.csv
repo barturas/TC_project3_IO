@@ -1,0 +1,15 @@
+ID,Type,Text,Choices,CorrectAnswer,IsActive,TimesAnswered,TimesCorrect
+1,Quiz,What is the capital of France?,Paris;Lyon;Marseille,Paris,False,13,11
+2,Quiz,Which planet is known as the Red Planet?,Earth;Mars;Jupiter,Mars,False,8,7
+3,Quiz,What is the largest ocean on Earth?,Atlantic;Pacific;Indian,Pacific,False,11,8
+4,Quiz,What is the chemical symbol for water?,H2O;CO2;O2,H2O,False,18,14
+5,Quiz,Who wrote 'Hamlet'?,Charles Dickens;William Shakespeare;Mark Twain,William Shakespeare,False,5,4
+6,FreeForm,Who is known as the father of modern physics?,,Albert Einstein,False,19,10
+7,FreeForm,What year did the first man walk on the moon?,,1969,True,22,17
+8,FreeForm,What is the fastest land animal?,,Cheetah,True,7,7
+9,FreeForm,What is the hardest natural substance on Earth?,,Diamond,True,13,12
+10,FreeForm,In what year was the United Nations founded?,,1945,True,14,13
+11,FreeForm,Who was the first woman to win a Nobel Prize?,,Marie Curie,True,12,8
+12,Quiz,What digital camera is the best?,Sony;Leica;Lumix;Canon;Nikon;Fuji,Sony,True,1,1
+13,Quiz,How many months there are in year?,11;12;13,12,True,2,2
+14,Quiz,What is the capital of Latvia?,Riga;Tallinn;Vilnius,Riga,False,0,0
